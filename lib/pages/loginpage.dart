@@ -13,9 +13,9 @@ class _LoginPageState extends State<LoginPage> {
   final TextEditingController _emailController = TextEditingController();
   final TextEditingController _passwordController = TextEditingController();
 
-  final String userName1 = "jettinsha@gmail.com";
+  final String userName1 = "temp@gmail.com";
   final String password1 = "12345678";
-  final String userName2 = "Sekai-Ichi@gmail.com";
+  final String userName2 = "hello@gmail.com";
   final String password2 = "440019";
 
   @override
