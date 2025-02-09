@@ -1,4 +1,4 @@
-# 📱 How to Run a Flutter App on Android
+# 📱 How to Run
 
 This guide will help you set up, run, and build a Flutter app on an Android device or emulator.
 
