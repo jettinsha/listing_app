@@ -3,9 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:listing_app/pages/homepage.dart';
 import 'package:listing_app/pages/loginpage.dart';
 
-void main() async {
-  WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
+void main() {
   runApp(MyApp());
 }
 
